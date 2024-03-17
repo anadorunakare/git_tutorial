@@ -1,0 +1,66 @@
+[33mcommit ddbef34dae2fe7fa35e721465ccc27f337a482b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: cacc7b6 9f07f02
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sun Mar 17 12:11:10 2024 +0900
+
+    Merge branch 'feature'
+
+[33mcommit 9f07f02b5887703f2305f60fe144beaf8de7d18e[m[33m ([m[1;32mfeature[m[33m)[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sun Mar 17 12:10:12 2024 +0900
+
+    featureを追記
+
+[33mcommit cacc7b6675c88ec0550f0c9d485b3aa07a5e1658[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: anadorunakare <129806495+anadorunakare@users.noreply.github.com>
+Date:   Sun Mar 17 12:06:47 2024 +0900
+
+    Git Mergeを追記
+
+[33mcommit e840d3cc596305807341f0ae4f3e4e7628532255[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sun Mar 17 11:47:22 2024 +0900
+
+    master.htmlファイルを新規作成
+
+[33mcommit 234e7f5ef4beebca692d27e6849bb6cd86a4c410[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sun Mar 17 11:42:57 2024 +0900
+
+    Feature.htmlファイルを新規作成
+
+[33mcommit 3a50faac8038da004b98eb52a2c335c3922d33f7[m
+Author: anadorunakare <129806495+anadorunakare@users.noreply.github.com>
+Date:   Sat Mar 16 17:25:05 2024 +0900
+
+    Update home.html
+
+[33mcommit 3c14e5b7d10cf66231d0adbe63ecc574c7710e38[m
+Author: anadorunakare <129806495+anadorunakare@users.noreply.github.com>
+Date:   Sat Mar 16 17:15:35 2024 +0900
+
+    Create home.html
+
+[33mcommit eb50784317061547ec93370e7156a6fb8b69d898[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sun Mar 10 13:14:36 2024 +0900
+
+    git commit --amendを追記
+
+[33mcommit 0f24ecc8053763a62b7308e654a906e6385c23f2[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sun Mar 10 12:28:16 2024 +0900
+
+    .gitignoreファイルを追加
+
+[33mcommit e76929d8f3fde5964cd60e395610f937c8c3af39[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sat Mar 9 16:38:43 2024 +0900
+
+    git diff
+
+[33mcommit d7b68b069ed01f2fded62c0fd18f81447d81e7c8[m
+Author: anadorunakare <flatfisherman@gmail.com>
+Date:   Sat Mar 9 11:28:17 2024 +0900
+
+    git statusコマン
